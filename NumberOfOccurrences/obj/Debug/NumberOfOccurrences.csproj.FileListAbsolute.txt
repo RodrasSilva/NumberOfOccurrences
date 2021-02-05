@@ -1,0 +1,6 @@
+C:\Stuff\Github\PC-1920i-LI52D-G05\PC-SE3-EX2\NumberOfOccurrences\NumberOfOccurrences\bin\Debug\NumberOfOccurrences.exe
+C:\Stuff\Github\PC-1920i-LI52D-G05\PC-SE3-EX2\NumberOfOccurrences\NumberOfOccurrences\bin\Debug\NumberOfOccurrences.pdb
+C:\Stuff\Github\PC-1920i-LI52D-G05\PC-SE3-EX2\NumberOfOccurrences\NumberOfOccurrences\obj\Debug\NumberOfOccurrences.csprojAssemblyReference.cache
+C:\Stuff\Github\PC-1920i-LI52D-G05\PC-SE3-EX2\NumberOfOccurrences\NumberOfOccurrences\obj\Debug\NumberOfOccurrences.csproj.CoreCompileInputs.cache
+C:\Stuff\Github\PC-1920i-LI52D-G05\PC-SE3-EX2\NumberOfOccurrences\NumberOfOccurrences\obj\Debug\NumberOfOccurrences.exe
+C:\Stuff\Github\PC-1920i-LI52D-G05\PC-SE3-EX2\NumberOfOccurrences\NumberOfOccurrences\obj\Debug\NumberOfOccurrences.pdb
